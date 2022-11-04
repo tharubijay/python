@@ -1,0 +1,4 @@
+name,Price,Quantity,Total
+Apple,200,20,4000
+Apple,200,20,4000
+Banana,160,10,1600
